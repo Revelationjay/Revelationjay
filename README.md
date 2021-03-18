@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm ebuka 
 
 <!--
 **Revelationjay/Revelationjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 ![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Revelationjay-dev&theme=cobalt&show_icons=true)
 ![Profile views](https://gpvc.arturio.dev/Revelationjay)  
 
--->
