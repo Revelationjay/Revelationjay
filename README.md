@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter 🦋 and JavaScript 👨‍💻
 - 👯 I’m looking to collaborate on Flutter Projects for Startups 🏢
 - 💬 Ask me about Flutter/Dart, Java 🙂
-- 📫 How to reach me: ...
+- 📫 How to reach me: [My Twitter account](https://twitter.com/cs_onah)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess ♟ and love meeting new people 🙋‍♂️
 
