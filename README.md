@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter 🦋 and JavaScript 👨‍💻
 - 👯 I’m looking to collaborate on Flutter Projects for Startups 🏢
 - 💬 Ask me about Flutter/Dart, Java 🙂
-- 📫 How to reach me: [My Twitter account](https://twitter.com/cs_onah)
+- 📫 Reach me on [My Twitter account](https://twitter.com/cs_onah) or send me a [mail](revelationjay02@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess ♟ and love meeting new people 🙋‍♂️
 
