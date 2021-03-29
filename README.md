@@ -12,6 +12,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess ♟ and love meeting new people 🙋‍♂️
 
-![RevelationJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revelationjay&count_private=true)
+![RevelationJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revelationjay&count_private=true&hide=stars,issues)
 ![Profile views](https://gpvc.arturio.dev/Revelationjay)  
 
