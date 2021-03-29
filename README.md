@@ -14,5 +14,5 @@
 
 ![Ebuka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revelationjay&count_private=true&hide=stars,issues&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Revelationjay&layout=compact)
-![Profile views](https://gpvc.arturio.dev/Revelationjay)  
+
 
