@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess ♟ and love meeting new people 🙋‍♂️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revelationjay)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Revelationjay&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Revelationjay&theme=cobalt&show_icons=true&&line_height=40)
 ![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Revelationjay&theme=cobalt&show_icons=true)
 ![Profile views](https://gpvc.arturio.dev/Revelationjay)  
